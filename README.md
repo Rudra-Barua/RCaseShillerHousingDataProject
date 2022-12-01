@@ -1,6 +1,8 @@
 # R Case-Shiller Housing Data Project
 
-Harvard Math23A Final Data Project
+Harvard Math23A: Linear Algebra and Real Analysis I
+
+Final Data Project
 
 Fall 2020
 
